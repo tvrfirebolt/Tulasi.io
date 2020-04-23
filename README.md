@@ -1,2 +1,2 @@
 # Tulasi.io
-This repo contains files related to tulasi.io.
+This repo contains files related to my personal site: tulasi.io.
